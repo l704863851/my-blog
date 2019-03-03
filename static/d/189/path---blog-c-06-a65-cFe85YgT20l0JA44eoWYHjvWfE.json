@@ -1,0 +1,1 @@
+{"data":{"allMarkdownRemark":{"edges":[{"node":{"excerpt":"this is my blog2","frontmatter":{"date":"2019 3月 02","title":"firstblod"},"fields":{"slug":"/posts/xx.1/"}}},{"node":{"excerpt":"this is my blog","frontmatter":{"date":"2019 3月 01","title":"firstblod"},"fields":{"slug":"/posts/xx/"}}}]}},"pageContext":{"limit":6,"skip":0,"numPages":1,"currentPage":1}}
