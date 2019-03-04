@@ -3,3 +3,9 @@
 @tailwind utilities;
 
 @import "../styles/PrismJS.css";
+
+/* 默认svg太大，设置默认值 */
+.cYmzmM {
+  width: 1em;
+  pointer-events: none;
+}
