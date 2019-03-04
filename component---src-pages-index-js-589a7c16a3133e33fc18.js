@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{502:function(n,e,t){"use strict";t.r(e);var a=t(0),u=t.n(a);e.default=function(){return u.a.createElement("div",null,u.a.createElement("h1",null,"博客搭建完毕，下次有空再改改UI。"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-589a7c16a3133e33fc18.js.map
