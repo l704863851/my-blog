@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://l704863851.github.io/my-blog/my-blog/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://l704863851.github.io/my-blog/my-blog/posts/javascript_sort/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://l704863851.github.io/my-blog/my-blog/posts/arr_deduplication/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://l704863851.github.io/my-blog/my-blog/posts/download_m3u8/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://l704863851.github.io/my-blog/my-blog/posts/javascript_sort/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://l704863851.github.io/my-blog/my-blog/posts/javascript_eq/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://l704863851.github.io/my-blog/my-blog/posts/highlight_code/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://l704863851.github.io/my-blog/my-blog/posts/call_stack/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://l704863851.github.io/my-blog/my-blog/tags/java-script/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://l704863851.github.io/my-blog/my-blog/tags/javascript/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://l704863851.github.io/my-blog/my-blog/tags/前端/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://l704863851.github.io/my-blog/my-blog/tags/java-script/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://l704863851.github.io/my-blog/my-blog/tags/markdown/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://l704863851.github.io/my-blog/my-blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://l704863851.github.io/my-blog/my-blog/tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
