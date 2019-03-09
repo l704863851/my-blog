@@ -1,5 +1,8 @@
 import React from "react"
 import { Link } from "gatsby";
+import {
+  StyleHeader
+} from "./styles"
 
 import Search from "../Search"
 
@@ -8,14 +11,16 @@ const searchIndices = [
 ]
 
 const Header = () => (
-    <div className="flex justify-between">
+    <StyleHeader id="header" className="flex justify-between">
       <div>
+        <Link to="/">首页</Link>
+        |
         <Link to="/blog">博客</Link>
         |
         <Link to="/tags">标签</Link>
       </div>
       <Search collapse indices={searchIndices} />
-    </div>
+    </StyleHeader>
 )
 
 export default Header
