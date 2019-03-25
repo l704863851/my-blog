@@ -1,5 +1,4 @@
 import React from "react"
-import { Link } from "gatsby"
 import {
   StyleFooter,
   StyleFixedFooter,
@@ -9,7 +8,7 @@ const Footer = () => (
     <StyleFooter id="footer" className="flex justify-between">
       <div>footer</div>
       <StyleFixedFooter>
-        <Link to="#header">置顶</Link>
+        <a href="#header">置顶</a>
       </StyleFixedFooter>
     </StyleFooter>
 )
